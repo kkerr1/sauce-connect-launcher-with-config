@@ -1,0 +1,9 @@
+{
+  "name": "sauce-connect-launcher-with-config",
+  "version": "1.0.0",
+  "description": "lauches sauce connect / reads from a config file",
+  "main": "index.js",
+  "repository": "git@github.com:kkerr1/sauce-connect-launcher-with-config.git",
+  "author": "Kevin Kerr <kevin.kerr@formidable.com>",
+  "license": "MIT"
+}
